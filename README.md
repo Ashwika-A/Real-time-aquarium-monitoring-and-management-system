@@ -19,3 +19,15 @@ Tools used:
 Hardware: Arduino nano, BH1750, DS18B20, TDS 
 Sensor, LCD Display. 
 Software: Arduino IDE, MATLAB, ThingSpeak
+
+
+
+Project Team
+
+Abhinav
+Ashwika A 
+Jisshnu A P
+Kamaleshwaran
+
+
+Department of Electronics and Communication Engineering Dr. N.G.P. Institute of Technology, Coimbatore
